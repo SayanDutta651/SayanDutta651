@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Sayan Dutta -->
 
 <h1 align="center">Hi 👋, I'm Sayan Dutta</h1>
-<h3 align="center">A passionate coder and VLSI enthusiast from VIT-AP University</h3>
+<h3 align="center">A passionate coder and VLSI enthusiast from VIT‑AP University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Sayan+Dutta;Coder+%7C+VLSI+Chip+Design+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -11,10 +11,10 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 B.Tech student at **VIT-AP University**
-- 📍 Based in **Vijayawada, India**
-- 💡 Passionate about **Coding** and **VLSI Chip Design**
-- 🌱 Currently exploring **Cloud, RTL Design, and DevOps**
+- 🎓 B.Tech student at **VIT‑AP University**  
+- 📍 Based in **Vijayawada, India**  
+- 💡 Passionate about **Coding** and **VLSI Chip Design**  
+- 🌱 Currently exploring **Cloud, RTL Design, and DevOps**  
 - 📧 Reach me at: **sayandutta1810@gmail.com**
 
 ---
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="40" alt="Verilog" />
+  <img src="https://cdn.jsdelivr.net/gh/file‑icons/icons/svg/Verilog.svg" height="40" alt="Verilog" />
 </p>
 
 ---
@@ -57,13 +57,13 @@
 
 <p align="center">
   <a href="mailto:sayandutta1810@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/sayan-dutta-6811b3319/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/sayandutta2001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 </p>
 
